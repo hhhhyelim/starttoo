@@ -1,0 +1,7 @@
+ai/api_server/vendor/tattoo_classifier_v3/checkpoints/rendering.pt filter=lfs diff=lfs merge=lfs -text
+ai/api_server/vendor/tattoo_classifier_v3/checkpoints/color.pt filter=lfs diff=lfs merge=lfs -text
+ai/api_server/vendor/tattoo_classifier_v3/checkpoints/secondary.pt filter=lfs diff=lfs merge=lfs -text
+ai/api_server/vendor/tattoo_classifier_v3/checkpoints/encoder.pt filter=lfs diff=lfs merge=lfs -text
+ai/api_server/vendor/tattoo_classifier_v3/checkpoints/primary.pt filter=lfs diff=lfs merge=lfs -text
+ai/api_server/vendor/inklift_v11_7/models/releases/tattoo_extractor_v11_warm_black_20260726/weights/warm_black_roi_gate_v11.pt filter=lfs diff=lfs merge=lfs -text
+ai/api_server/vendor/inklift_v11_7/models/releases/tattoo_extractor_v11_warm_black_20260726/weights/roi_gate_v9_balanced_red.pt filter=lfs diff=lfs merge=lfs -text
